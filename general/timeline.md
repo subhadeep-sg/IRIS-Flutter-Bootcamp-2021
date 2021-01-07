@@ -1,5 +1,7 @@
 # Timeline of Bootcamp
 
+### Session 0
+
 ###### 7th January, 2021
 
 Introduction about the bootcamp and basics of Git
